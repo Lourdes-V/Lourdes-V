@@ -1,12 +1,11 @@
 ### Hola, soy Lourdes... ###
 
-_Soy Licenciada en Ciencias de la Educación y Analista de Datos. Siempre he considerado gran pasión por el aprendizaje y la resolución de problemas, por lo que actualmente me encuentro en la emocionante transición de integrar mis conocimientos pedagógicos con el análisis de datos, lo que me permite abordar los desafíos desde una perspectiva única y multidisciplinaria._
+_ Soy Analista de Datos con una gran pasión por el aprendizaje y la resolución de problemas. Disfruto trabajar con datos para extraer insights valiosos, optimizar procesos y aportar valor a la toma de decisiones. Me interesa el análisis exploratorio, la visualización de datos y el uso de herramientas como SQL, Power BI y Python para transformar datos en conocimiento.
 
-_Me encuentro en la búsqueda de una oportunidad trainee o junior en análisis de datos, donde pueda aportar mis habilidades técnicas, aprender de un equipo experimentado, y crecer profesionalmente en el campo. Me motiva la idea de contribuir a proyectos innovadores que generen impacto real a través de la información._
+_ Además, mi formación en Ciencias de la Educación me ha brindado un enfoque analítico y habilidades clave como el pensamiento crítico, la comunicación efectiva y la capacidad de abordar problemas desde una perspectiva integral.
 
 Estoy lista para aceptar nuevos retos y continuar desarrollándome en el mundo del análisis de datos. 
 
-##### ¡No dudes en conectarte conmigo! #####
 
 
 ### 🌐 Redes:

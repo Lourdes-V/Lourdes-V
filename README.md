@@ -1,6 +1,6 @@
 ### Hola, soy Lourdes... ###
 
-Soy Analista de Datos con una gran pasión por el aprendizaje y la resolución de problemas. Disfruto trabajar con datos para extraer insights valiosos, optimizar procesos y aportar valor a la toma de decisiones. Me interesa el análisis exploratorio, la visualización de datos y el uso de herramientas como SQL, Power BI y Python para transformar datos en conocimiento.
+Soy Analista de Datos con una gran pasión por el aprendizaje y la resolución de problemas. Disfruto trabajar con datos para extraer insights valiosos, optimizar procesos y aportar valor a la toma de decisiones. Me interesa el análisis exploratorio y la visualización de datos.
 
 Además, mi formación en Ciencias de la Educación me ha brindado un enfoque analítico y habilidades clave como el pensamiento crítico, la comunicación efectiva y la capacidad de abordar problemas desde una perspectiva integral.
 
